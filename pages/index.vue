@@ -1,6 +1,8 @@
 <script lang="ts"></script>
 <template>
-  <div> </div>
+  <div>
+    <BaseButton/>
+  </div>
 </template>
 
 <style></style>
